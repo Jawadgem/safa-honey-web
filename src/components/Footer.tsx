@@ -9,7 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
           {/* Brand */}
           <div className="space-y-4">
-            <img src={logo} alt="Safa Honey" className="h-16 w-auto brightness-0 invert" />
+            <img src={logo} alt="Safa Honey" className="h-16 w-auto" />
             <p className="text-background/70 text-sm leading-relaxed">
               Premium Pakistani honey, harvested with care and delivered with love. 
               Experience the purity of nature in every drop.

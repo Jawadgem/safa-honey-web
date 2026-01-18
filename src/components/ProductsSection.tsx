@@ -19,7 +19,7 @@ const products: Product[] = [
   },
   {
     id: "wildflower-honey",
-    name: "Multi Floral / Wildflower Honey",
+    name: "Wildflower Honey",
     image: wildflowerHoney,
     prices: { "1kg": 7500, "500g": 4000, "250g": 2200 },
     categories: ["Rare", "Most Popular"],
